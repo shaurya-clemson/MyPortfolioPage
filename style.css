@@ -78,7 +78,7 @@ p.enlarge span { color: #000 }
 
 /* //-- section styles -- */
 
-a#pdf { display: block; float: left; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;}
+a#pdf { display: block; float: left; background: #666; color: white; padding: 6px 50px 6px; margin-bottom: 6px; text-decoration: none;}
 a#pdf:hover { background: #222; transition: all .5s ease}
 
 .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
@@ -97,3 +97,5 @@ a#pdf:hover { background: #222; transition: all .5s ease}
 /* --// override to force 1/8th width grids -- */
 .yui-gf .yui-u{width:80.2%;}
 .yui-gf div.first{width:12.3%;}
+
+
